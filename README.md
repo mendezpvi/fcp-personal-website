@@ -10,7 +10,7 @@ As part of the **Web Dev Basics** module in [Scrimba](https://v2.scrimba.com/hom
 
 ## *Wireframe* 🖼️
 
-![Wireframe](./wireframe.png)
+![Wireframe](./personal-website-wireframe.avif)
 
 ## Links 🔗
 
